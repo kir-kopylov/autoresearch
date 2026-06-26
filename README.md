@@ -2,6 +2,8 @@
 
 # Autoresearch
 
+**Русская пользовательская оболочка:** [README.ru.md](README.ru.md)
+
 **Turn [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [OpenCode](https://opencode.ai), or [OpenAI Codex](https://developers.openai.com/codex) into a relentless improvement engine.**
 
 Based on [Karpathy's autoresearch](https://github.com/karpathy/autoresearch) — constraint + mechanical metric + autonomous iteration = compounding gains.
